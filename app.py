@@ -1,6 +1,6 @@
 import streamlit as st
 import json
-from scoring import calculate_leaderboard
+from scoring import calculate_leaderboard, SCORING
 
 # Load data
 with open("data/players.json") as f:
@@ -14,6 +14,14 @@ with open("data/results.json") as f:
 
 # Calculate leaderboard
 leaderboard = calculate_leaderboard(players, teams, results)
+
+# Mapping teams to players
+
+team_to_player = {}
+
+for player, teams_list in players.items():
+    for team in teams_list:
+        team_to_player[team] = player
 
 # UI
 st.title("🏆 World Cup Tracker")
@@ -34,7 +42,21 @@ for player, score in sorted_board:
 
 st.subheader("📊 Results so far")
 
-for result in results:
+def get_points(team, goals_for, goals_against, result):
+    tier = teams[team]["tier"]
+
+    points = goals_for * SCORING[tier]["goal"]
+
+    if goals_for > goals_against:
+        points += SCORING[tier]["win"]
+
+    elif goals_for == goals_against:
+        if result.get("penalties_winner") == team:
+            points += SCORING[tier]["win"]
+
+    return points
+
+for result in reversed(results):
     home = result["home_team"]
     away = result["away_team"]
     hg = result["home_goals"]
@@ -54,4 +76,14 @@ for result in results:
         else:
             st.info("🤝 Draw")
 
+    # --- NEW: points per team + player ---
+    home_points = get_points(home, hg, ag, result)
+    away_points = get_points(away, ag, hg, result)
+
+    st.write(
+        f"{home} → {home_points} pts ({team_to_player[home]})  \n  "
+        f"{away} → {away_points} pts ({team_to_player[away]})"
+    )
+
     st.divider()
+

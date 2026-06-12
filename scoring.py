@@ -51,3 +51,5 @@ def calculate_leaderboard(players, teams, results):
         leaderboard[player] = total
 
     return leaderboard
+
+
