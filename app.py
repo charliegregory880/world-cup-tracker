@@ -1,6 +1,7 @@
 import streamlit as st
 import json
 from scoring import calculate_leaderboard, SCORING
+from datetime import datetime
 
 # Load data
 with open("data/players.json") as f:
@@ -90,3 +91,4 @@ for result in reversed(results):
 
     st.divider()
 
+st.caption(f"Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
