@@ -1,0 +1,17 @@
+[
+    {
+        "home_team": "Mexico",
+        "away_team": "South Africa",
+        "home_goals": 2,
+        "away_goals": 0,
+        "penalties_winner": null
+    },
+
+    {
+        "home_team": "South Korea",
+        "away_team": "Czechia",
+        "home_goals": 2,
+        "away_goals": 1,
+        "penalties_winner": null
+    }
+]
