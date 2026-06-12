@@ -1,8 +1,6 @@
 import streamlit as st
 import json
-import flag
 from scoring import calculate_leaderboard
-from utils import FLAGS
 
 # Load data
 with open("data/players.json") as f:
