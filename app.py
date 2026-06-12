@@ -28,7 +28,7 @@ sorted_board = sorted(
 )
 
 for player, score in sorted_board:
-    st.write(f"**{player}**: {score} pts")
+    st.markdown(f"**{player}**: {score} pts")
 
 # Results Section
 
@@ -40,7 +40,7 @@ for result in results:
     hg = result["home_goals"]
     ag = result["away_goals"]
 
-    st.write(f"⚽ **{home} {hg} - {ag} {away} **")
+    st.markdown(f"⚽ **{home} {hg} - {ag} {away}**")
 
     # outcome
     if hg > ag:
@@ -50,7 +50,7 @@ for result in results:
     else:
         if result.get("penalties_winner"):
             winner = result["penalties_winner"]
-            st.warning(f"🤝 Draw — 🏆 {FLAGS.get(winner, '')} {winner} win on pens")
+            st.warning(f"🤝 Draw — 🏆 {winner} win on pens")
         else:
             st.info("🤝 Draw")
 
