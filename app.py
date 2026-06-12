@@ -57,6 +57,9 @@ def get_points(team, goals_for, goals_against, result):
     return points
 
 for result in reversed(results):
+    if None in (result["home_goals"], result["away_goals"]):
+        continue
+    
     home = result["home_team"]
     away = result["away_team"]
     hg = result["home_goals"]

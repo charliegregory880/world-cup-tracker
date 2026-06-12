@@ -1,17 +1,570 @@
 [
     {
+        "date": "2026-06-11",
         "home_team": "Mexico",
         "away_team": "South Africa",
         "home_goals": 2,
         "away_goals": 0,
         "penalties_winner": null
     },
-
     {
+        "date": "2026-06-11",
         "home_team": "South Korea",
         "away_team": "Czechia",
         "home_goals": 2,
         "away_goals": 1,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-12",
+        "home_team": "Canada",
+        "away_team": "Bosnia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-12",
+        "home_team": "USA",
+        "away_team": "Paraguay",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-13",
+        "home_team": "Haiti",
+        "away_team": "Scotland",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-13",
+        "home_team": "Australia",
+        "away_team": "Turkey",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-13",
+        "home_team": "Brazil",
+        "away_team": "Morocco",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-13",
+        "home_team": "Qatar",
+        "away_team": "Switzerland",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-14",
+        "home_team": "Ivory Coast",
+        "away_team": "Ecuador",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-14",
+        "home_team": "Germany",
+        "away_team": "Curacao",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-14",
+        "home_team": "Netherlands",
+        "away_team": "Japan",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-14",
+        "home_team": "Sweden",
+        "away_team": "Tunisia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-15",
+        "home_team": "Saudi Arabia",
+        "away_team": "Uruguay",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-15",
+        "home_team": "Spain",
+        "away_team": "Cape Verde",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-15",
+        "home_team": "Iran",
+        "away_team": "New Zealand",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-15",
+        "home_team": "Belgium",
+        "away_team": "Egypt",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-16",
+        "home_team": "France",
+        "away_team": "Senegal",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-16",
+        "home_team": "Iraq",
+        "away_team": "Norway",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-16",
+        "home_team": "Argentina",
+        "away_team": "Algeria",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-16",
+        "home_team": "Austria",
+        "away_team": "Jordan",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-17",
+        "home_team": "Ghana",
+        "away_team": "Panama",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-17",
+        "home_team": "England",
+        "away_team": "Croatia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-17",
+        "home_team": "Portugal",
+        "away_team": "Congo DR",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-17",
+        "home_team": "Uzbekistan",
+        "away_team": "Colombia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-18",
+        "home_team": "Czechia",
+        "away_team": "South Africa",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-18",
+        "home_team": "Switzerland",
+        "away_team": "Bosnia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-18",
+        "home_team": "Canada",
+        "away_team": "Qatar",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-18",
+        "home_team": "Mexico",
+        "away_team": "South Korea",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-19",
+        "home_team": "Brazil",
+        "away_team": "Haiti",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-19",
+        "home_team": "Scotland",
+        "away_team": "Morocco",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-19",
+        "home_team": "Turkey",
+        "away_team": "Paraguay",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-19",
+        "home_team": "USA",
+        "away_team": "Australia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-20",
+        "home_team": "Germany",
+        "away_team": "Ivory Coast",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-20",
+        "home_team": "Ecuador",
+        "away_team": "Curacao",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-20",
+        "home_team": "Netherlands",
+        "away_team": "Sweden",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-20",
+        "home_team": "Tunisia",
+        "away_team": "Japan",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-21",
+        "home_team": "Uruguay",
+        "away_team": "Cape Verde",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-21",
+        "home_team": "Spain",
+        "away_team": "Saudi Arabia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-21",
+        "home_team": "Belgium",
+        "away_team": "Iran",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-21",
+        "home_team": "New Zealand",
+        "away_team": "Egypt",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-22",
+        "home_team": "Norway",
+        "away_team": "Senegal",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-22",
+        "home_team": "France",
+        "away_team": "Iraq",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-22",
+        "home_team": "Argentina",
+        "away_team": "Austria",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-22",
+        "home_team": "Jordan",
+        "away_team": "Algeria",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-23",
+        "home_team": "England",
+        "away_team": "Ghana",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-23",
+        "home_team": "Panama",
+        "away_team": "Croatia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-23",
+        "home_team": "Portugal",
+        "away_team": "Uzbekistan",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-23",
+        "home_team": "Colombia",
+        "away_team": "Congo DR",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-24",
+        "home_team": "Scotland",
+        "away_team": "Brazil",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-24",
+        "home_team": "Morocco",
+        "away_team": "Haiti",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-24",
+        "home_team": "Switzerland",
+        "away_team": "Canada",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-24",
+        "home_team": "Bosnia",
+        "away_team": "Qatar",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-24",
+        "home_team": "Czechia",
+        "away_team": "Mexico",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-24",
+        "home_team": "South Africa",
+        "away_team": "South Korea",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-25",
+        "home_team": "Curacao",
+        "away_team": "Ivory Coast",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-25",
+        "home_team": "Ecuador",
+        "away_team": "Germany",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-25",
+        "home_team": "Japan",
+        "away_team": "Sweden",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-25",
+        "home_team": "Tunisia",
+        "away_team": "Netherlands",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-25",
+        "home_team": "Turkey",
+        "away_team": "USA",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-25",
+        "home_team": "Paraguay",
+        "away_team": "Australia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-26",
+        "home_team": "Norway",
+        "away_team": "France",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-26",
+        "home_team": "Senegal",
+        "away_team": "Iraq",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-26",
+        "home_team": "Egypt",
+        "away_team": "Iran",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-26",
+        "home_team": "New Zealand",
+        "away_team": "Belgium",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-26",
+        "home_team": "Cape Verde",
+        "away_team": "Saudi Arabia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-26",
+        "home_team": "Uruguay",
+        "away_team": "Spain",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-27",
+        "home_team": "Panama",
+        "away_team": "England",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-27",
+        "home_team": "Croatia",
+        "away_team": "Ghana",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-27",
+        "home_team": "Algeria",
+        "away_team": "Austria",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-27",
+        "home_team": "Jordan",
+        "away_team": "Argentina",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-27",
+        "home_team": "Colombia",
+        "away_team": "Portugal",
+        "home_goals": null,
+        "away_goals": null,
         "penalties_winner": null
     }
 ]

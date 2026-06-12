@@ -23,6 +23,10 @@ def calculate_leaderboard(players, teams, results):
 
             for result in results:
 
+                # skip unplayed fixtures
+                if None in (result["home_goals"], result["away_goals"]):
+                    continue
+
                 # does this team appear in the result?
                 if team not in (result["home_team"], result["away_team"]):
                     continue
@@ -46,7 +50,6 @@ def calculate_leaderboard(players, teams, results):
                 elif goals_for == goals_against:
                     if result.get("penalties_winner") == team:
                         total += SCORING[tier]["win"]
-
 
         leaderboard[player] = total
 
