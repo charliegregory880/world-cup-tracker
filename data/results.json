@@ -19,16 +19,16 @@
         "date": "2026-06-12",
         "home_team": "Canada",
         "away_team": "Bosnia",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 1,
+        "away_goals": 1,
         "penalties_winner": null
     },
     {
         "date": "2026-06-12",
         "home_team": "USA",
         "away_team": "Paraguay",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 4,
+        "away_goals": 1,
         "penalties_winner": null
     },
     {
