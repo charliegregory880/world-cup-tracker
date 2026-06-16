@@ -99,32 +99,32 @@
         "date": "2026-06-15",
         "home_team": "Saudi Arabia",
         "away_team": "Uruguay",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 1,
+        "away_goals": 1,
         "penalties_winner": null
     },
     {
         "date": "2026-06-15",
         "home_team": "Spain",
         "away_team": "Cape Verde",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 0,
+        "away_goals": 0,
         "penalties_winner": null
     },
     {
         "date": "2026-06-15",
         "home_team": "Iran",
         "away_team": "New Zealand",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 2,
+        "away_goals": 2,
         "penalties_winner": null
     },
     {
         "date": "2026-06-15",
         "home_team": "Belgium",
         "away_team": "Egypt",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 1,
+        "away_goals": 1,
         "penalties_winner": null
     },
     {
