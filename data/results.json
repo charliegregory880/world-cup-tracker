@@ -163,32 +163,32 @@
         "date": "2026-06-17",
         "home_team": "Ghana",
         "away_team": "Panama",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 1,
+        "away_goals": 0,
         "penalties_winner": null
     },
     {
         "date": "2026-06-17",
         "home_team": "England",
         "away_team": "Croatia",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 4,
+        "away_goals": 2,
         "penalties_winner": null
     },
     {
         "date": "2026-06-17",
         "home_team": "Portugal",
         "away_team": "Congo DR",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 1,
+        "away_goals": 1,
         "penalties_winner": null
     },
     {
         "date": "2026-06-17",
         "home_team": "Uzbekistan",
         "away_team": "Colombia",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 1,
+        "away_goals": 3,
         "penalties_winner": null
     },
     {
