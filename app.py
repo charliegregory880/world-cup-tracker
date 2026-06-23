@@ -91,4 +91,3 @@ for result in reversed(results):
 
     st.divider()
 
-st.caption(f"Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
