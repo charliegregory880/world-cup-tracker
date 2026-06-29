@@ -577,14 +577,6 @@
     },
     {
         "date": "2026-06-29",
-        "home_team": "Brazil",
-        "away_team": "Japan",
-        "home_goals": null,
-        "away_goals": null,
-        "penalties_winner": null
-    },
-    {
-        "date": "2026-06-29",
         "home_team": "Germany",
         "away_team": "Paraguay",
         "home_goals": null,
@@ -600,9 +592,9 @@
         "penalties_winner": null
     },
     {
-        "date": "2026-06-30",
-        "home_team": "Ivory Coast",
-        "away_team": "Norway",
+        "date": "2026-06-29",
+        "home_team": "Brazil",
+        "away_team": "Japan",
         "home_goals": null,
         "away_goals": null,
         "penalties_winner": null
@@ -616,7 +608,15 @@
         "penalties_winner": null
     },
     {
-        "date": "2026-07-01",
+        "date": "2026-06-30",
+        "home_team": "Ivory Coast",
+        "away_team": "Norway",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-06-30",
         "home_team": "Mexico",
         "away_team": "Ecuador",
         "home_goals": null,
@@ -633,6 +633,14 @@
     },
     {
         "date": "2026-07-01",
+        "home_team": "USA",
+        "away_team": "Bosnia",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-07-01",
         "home_team": "Belgium",
         "away_team": "Senegal",
         "home_goals": null,
@@ -640,9 +648,9 @@
         "penalties_winner": null
     },
     {
-        "date": "2026-07-01",
-        "home_team": "USA",
-        "away_team": "Bosnia",
+        "date": "2026-07-02",
+        "home_team": "Portugal",
+        "away_team": "Croatia",
         "home_goals": null,
         "away_goals": null,
         "penalties_winner": null
@@ -657,8 +665,32 @@
     },
     {
         "date": "2026-07-02",
-        "home_team": "Portugal",
-        "away_team": "Croatia",
+        "home_team": "Switzerland",
+        "away_team": "Algeria",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-07-03",
+        "home_team": "Argentina",
+        "away_team": "Cape Verde",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-07-03",
+        "home_team": "Colombia",
+        "away_team": "Ghana",
+        "home_goals": null,
+        "away_goals": null,
+        "penalties_winner": null
+    },
+    {
+        "date": "2026-07-03",
+        "home_team": "Australia",
+        "away_team": "Egypt",
         "home_goals": null,
         "away_goals": null,
         "penalties_winner": null

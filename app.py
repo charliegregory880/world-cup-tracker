@@ -13,6 +13,9 @@ with open("data/teams.json") as f:
 with open("data/results.json") as f:
     results = json.load(f)
 
+with open("data/r32_teams.json") as f:
+    r32_teams = json.load(f)
+
 # Calculate leaderboard
 leaderboard = calculate_leaderboard(players, teams, results)
 
@@ -38,6 +41,32 @@ sorted_board = sorted(
 
 for player, score in sorted_board:
     st.markdown(f"**{player}**: {score} pts")
+
+# Remaining Teams Section
+
+st.subheader("Round of 32 — Player Teams")
+
+cols = st.columns(4)
+for i, (player, r32teams) in enumerate(r32_teams.items()):
+    with cols[i % 4]:
+        teams_html = "".join(f"<li>{r32team}</li>" for r32team in r32teams)
+        st.markdown(
+            f"""
+            <div style="
+                border: 1px solid #e0e0e0;
+                border-radius: 10px;
+                padding: 12px 16px;
+                margin-bottom: 16px;
+                background-color: #1e1e1e;
+            ">
+                <h4 style="margin: 0 0 8px 0; color: #ffffff;">{player}</h4>
+                <ul style="margin: 0; padding-left: 18px; color: #cccccc;">
+                    {teams_html}
+                </ul>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
 
 # Results Section
 
