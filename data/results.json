@@ -579,72 +579,72 @@
         "date": "2026-06-29",
         "home_team": "Germany",
         "away_team": "Paraguay",
-        "home_goals": null,
-        "away_goals": null,
-        "penalties_winner": null
+        "home_goals": 1,
+        "away_goals": 1,
+        "penalties_winner": "Paraguay"
     },
     {
         "date": "2026-06-29",
         "home_team": "Netherlands",
         "away_team": "Morocco",
-        "home_goals": null,
-        "away_goals": null,
-        "penalties_winner": null
+        "home_goals": 1,
+        "away_goals": 1,
+        "penalties_winner": "Morocco"
     },
     {
         "date": "2026-06-29",
         "home_team": "Brazil",
         "away_team": "Japan",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 2,
+        "away_goals": 1,
         "penalties_winner": null
     },
     {
         "date": "2026-06-30",
         "home_team": "France",
         "away_team": "Sweden",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 3,
+        "away_goals": 0,
         "penalties_winner": null
     },
     {
         "date": "2026-06-30",
         "home_team": "Ivory Coast",
         "away_team": "Norway",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 1,
+        "away_goals": 2,
         "penalties_winner": null
     },
     {
         "date": "2026-06-30",
         "home_team": "Mexico",
         "away_team": "Ecuador",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 2,
+        "away_goals": 0,
         "penalties_winner": null
     },
     {
         "date": "2026-07-01",
         "home_team": "England",
         "away_team": "DR Congo",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 2,
+        "away_goals": 1,
         "penalties_winner": null
     },
     {
         "date": "2026-07-01",
         "home_team": "USA",
         "away_team": "Bosnia",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 2,
+        "away_goals": 0,
         "penalties_winner": null
     },
     {
         "date": "2026-07-01",
         "home_team": "Belgium",
         "away_team": "Senegal",
-        "home_goals": null,
-        "away_goals": null,
+        "home_goals": 3,
+        "away_goals": 2,
         "penalties_winner": null
     },
     {
